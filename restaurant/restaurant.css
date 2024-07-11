@@ -1,0 +1,217 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.wcu{
+    background-color:white;
+}
+
+.giftvoucher{
+    color:rgb(248, 159, 5);
+}
+.icon1{
+    font-size:35px;
+    border-radius:40px;
+    margin:10px;
+    background-color:white;
+    height:10vh;
+    width:6vw;
+    padding-left:1px;
+    padding-top:10px;
+}
+.follow{
+    color:#183b56;
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:bold;
+}
+
+.thankingbutton{
+    border-style: solid;
+    color: white;
+    padding: 6px;
+    border-radius: 4px;
+}
+.thankingpara{
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 28px;
+}
+.Thankingsec{
+    background-image: Radial-gradient(white,rgb(231, 212, 148));
+}
+.thankingheading{
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 700;
+    color: #183b56;
+}
+.delivering{
+    border-radius:20px;
+}
+.offerimg{
+    border-radius: 20px;
+}
+.deliverypara{
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 20px;
+}
+.deliveryheading{
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.healthybutton{
+    border-style:solid;
+    color:white;
+    padding:6px;
+    border-radius:4px;
+}
+.healthyheading{
+     font-family:"Roboto";
+     font-size:28px;
+     font-weight:700;
+     color:#183b56;
+}
+.healthyfoodpara{
+    font-family:"Roboto";
+    color: #5a7184;
+    font-size: 20px;
+
+}
+.healthyfood{
+    border-radius:20px;
+}
+.shadow-style{
+    border-radius:8px;
+    padding:20px;
+}
+.viewall{
+    font-size:15px;
+    font-family:"Roboto";
+    color:rgb(222, 110, 12);
+}
+.Nonvegheading{
+        font-size:18px;
+        color:#323f4b;
+        font-family:"Roboto";
+}
+.nonveg{
+    border-radius:10px;
+
+}
+.menuheading{
+        color: #183b56;
+        font-size: 28px;
+        font-family: "Roboto";
+        font-weight: 700;
+}
+.Explore-memu{
+    background-color:white;
+}
+.high{
+    color:blue;
+}
+.img1{
+    width: 87px;
+    height: 90px;
+}
+.imgheading{
+        color: #323f4b;
+        font-family: "Roboto";
+        font-size: 22px;
+        font-weight: 500;
+}
+.imgpara{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:16px
+}
+.wcu1{
+    border-radius:3px;
+    border-width:2px;
+    border-color:grey;
+    text-align:center;
+    border-style:solid;
+    background-color:rgb(235, 239, 241);
+}
+
+
+.heading1{
+    color:#183b56;
+    font-size:28px;
+    font-family:"Roboto";
+    font-weight:700;
+}
+.para{
+    color:#5a7184;
+    font-family:"Roboto";
+    font-size:18px;
+}
+
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url(https:res.cloudinary.com/dbyjxf5nw/image/upload/v1720705730/restaurant_ct7gbd.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
